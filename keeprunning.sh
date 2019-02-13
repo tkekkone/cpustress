@@ -1,3 +1,4 @@
+#!/bin/bash
 result=$1
 cores=$(nproc)
 while [ $result -ge $1 ]; do
